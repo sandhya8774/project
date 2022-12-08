@@ -6,7 +6,7 @@ This is a web based application developed for  Women Related To Fashion website 
 
 
 **Project Link** -https://blue-ocean-0f73ba100.2.azurestaticapps.net/
-**project demo video link** - 
+**project demo video link** - https://youtu.be/1Wp87SrgfwA
 
 ## Azure technologies used for Project
 
